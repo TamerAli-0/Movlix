@@ -35,7 +35,7 @@ body {
     flex: 1;
 }
 
-.logo {
+.logo a{
     font-size: 30px;
     color: #4dbf00;
 }
